@@ -10,7 +10,7 @@ clear
 echo "Ngapain Ke Sini? siap Siap Ngebucin Ya!" | lolcat
 echo "Jawab:" ;read {$}
 clear
-figlet Mr.BalBaL.X | lolcat
+figlet DZXMZSTRT | lolcat
 echo "================| Tools Bucin Gan:v | ===============" | lolcat
 
 echo""
@@ -25,7 +25,7 @@ echo "|__| Thanks To 28 Black Hat Cyber Team |__|" | lolcat
 echo "|__|===================================|__|" | lolcat
 echo "|__|          •Bucin Area😂•           |__|" | lolcat
 echo "|__|===================================|__|" | lolcat
-echo "|_________| Author: Mr.B41B4L.X |_________|" | lolcat
+echo "|_________| Author: DZXMZSTRT   |_________|" | lolcat
 echo "          |_____________________|          " | lolcat
 echo ""
 echo ""
